@@ -3,7 +3,9 @@ package com.get.colorlib;
 import java.awt.*;
 
 public class ColorLib {
-        public static void main(String[] args){}
+        public static void main(String[] args){
+
+        }
         public static final String Source = "https://xn--code-3jovd.plus.in.th/";
         public static final Color Snow = new Color(255, 250, 250);
         public static final Color GhostWhite = new Color(248,248,255);
@@ -81,4 +83,6 @@ public class ColorLib {
         public static final Color YellowGreen = new Color(154,205,50);
         public static final Color ForestGreen = new Color(34,139,34);
         public static final Color OliveDrab = new Color(107,142,35);
+        public static final Color DarkKhaki = new Color(189,183,107);
+        public static final Color PaleGoldenrod = new Color(238,232,170);
 }
