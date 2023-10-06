@@ -4,6 +4,7 @@ import java.awt.*;
 
 public class ColorLib {
         public static void main(String[] args){}
+        public static final String Source = "https://xn--code-3jovd.plus.in.th/";
         public static final Color Snow = new Color(255, 250, 250);
         public static final Color GhostWhite = new Color(248,248,255);
         public static final Color WhiteSmoke = new Color(245,245,245);
@@ -52,4 +53,32 @@ public class ColorLib {
         public static final Color LightSkyBlue = new Color(135,206,250);
         public static final Color SteelBlue = new Color(70,130,180);
         public static final Color LightSteelBlue = new Color(176,196,222);
+        public static final Color LightBlue = new Color(173,216,230);
+        public static final Color PowderBlue = new Color(176,224,230);
+        public static final Color PaleTurquoise = new Color(175,238,238);
+        public static final Color DarkTurquoise = new Color(0,206,209);
+        public static final Color MediumTurquoise = new Color(72,209,204);
+        public static final Color Turquoise = new Color(64,224,208);
+        public static final Color Cyan = new Color(0,255,255);
+        public static final Color LightCyan = new Color(224,255,255);
+        public static final Color CadetBlue = new Color(95,158,160);
+        public static final Color MediumAquamarine = new Color(102,205,170);
+        public static final Color Aquamarine = new Color(127,255,212);
+        public static final Color DarkGreen = new Color(0,100,0);
+        public static final Color DarkOliveGreen = new Color(85,107,47);
+        public static final Color DarkSeaGreen = new Color(143,188,143);
+        public static final Color SeaGreen = new Color(46,139,87);
+        public static final Color MediumSeaGreen = new Color(60,179,113);
+        public static final Color LightSeagreen = new Color(32,178,170);
+        public static final Color PaleGreen = new Color(152,251,152);
+        public static final Color SpringGreen = new Color(0,255,127);
+        public static final Color LawnGreen = new Color(124,252,0);
+        public static final Color Green = new Color(0,255,0);
+        public static final Color Chartreuse = new Color(127,255,0);
+        public static final Color MedSpringGreen = new Color(0,250,154);
+        public static final Color GreenYellow = new Color(173,255,47);
+        public static final Color LimeGreen = new Color(50,205,50);
+        public static final Color YellowGreen = new Color(154,205,50);
+        public static final Color ForestGreen = new Color(34,139,34);
+        public static final Color OliveDrab = new Color(107,142,35);
 }
