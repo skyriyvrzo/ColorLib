@@ -1,4 +1,4 @@
-package com.get.colorlib;
+package com.get.lib.colorlib;
 
 import java.awt.*;
 
