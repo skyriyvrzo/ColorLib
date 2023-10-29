@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="ColorLib:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/ColorLib_jar</output-path>
-    <root id="archive" name="ColorLib.jar">
-      <element id="module-output" name="ColorLib" />
-    </root>
-  </artifact>
-</component>

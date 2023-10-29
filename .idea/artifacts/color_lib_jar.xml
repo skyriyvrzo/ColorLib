@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="color-lib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/color_lib_jar</output-path>
+    <root id="archive" name="color-lib.jar">
+      <element id="module-output" name="color-lib" />
+    </root>
+  </artifact>
+</component>
