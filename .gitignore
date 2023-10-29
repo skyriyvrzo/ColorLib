@@ -36,3 +36,4 @@ build/
 
 ### Mac OS ###
 .DS_Store
+out/artifacts/color_lib_jar/color-lib.jar
