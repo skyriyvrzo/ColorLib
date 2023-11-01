@@ -84,4 +84,20 @@ public class ColorLib {
     public static final Color OliveDrab = new Color(107,142,35);
     public static final Color DarkKhaki = new Color(189,183,107);
     public static final Color PaleGoldenrod = new Color(238,232,170);
+    public static final Color LtGoldenrodYellow = new Color(250,250,210);
+    public static final Color LightYellow = new Color(255,255,224);
+    public static final Color Yellow = new Color(255,255,0);
+    public static final Color Gold = new Color(255,215,0);
+    public static final Color LightGoldenRod = new Color(238,221,130);
+    public static final Color GoldenRod = new Color(218,165,32);
+    public static final Color DarkGoldenRod = new Color(184,134,11);
+    public static final Color RosyBrown = new Color(188,143,143);
+    public static final Color IndianRed = new Color(205,92,92);
+    public static final Color SaddleBrown = new Color(139,69,19);
+    public static final Color Sienna = new Color(160,82,45);
+    public static final Color Peru = new Color(205,133,63);
+    public static final Color Burlywood = new Color(222,184,135);
+    public static final Color Beige = new Color(245,245,220);
+    public static final Color Wheat = new Color(245,222,179);
+    public static final Color SandyBrown = new Color(244,164,96);
 }
