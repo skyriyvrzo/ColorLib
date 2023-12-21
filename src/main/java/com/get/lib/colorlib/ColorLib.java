@@ -100,4 +100,27 @@ public class ColorLib {
     public static final Color Beige = new Color(245,245,220);
     public static final Color Wheat = new Color(245,222,179);
     public static final Color SandyBrown = new Color(244,164,96);
+    public static final Color Tan = new Color(210,180,140);
+    public static final Color Chocolate = new Color(210,105,30);
+    public static final Color Firebrick = new Color(178,34,34);
+    public static final Color Brown = new Color(165,42,42);
+    public static final Color DarkSalmon = new Color(233,150,122);
+    public static final Color Salmon = new Color(250,128,114);
+    public static final Color LightSalmon = new Color(255,160,122);
+    public static final Color Orange = new Color(255,165,0);
+    public static final Color DarkOrange = new Color(255,140,0);
+    public static final Color Coral = new Color(255,127,80);
+    public static final Color LightCoral = new Color(240,128,128);
+    public static final Color Tomato = new Color(255,99,71);
+    public static final Color OrangeRed = new Color(255,69,0);
+    public static final Color Red = new Color(255,0,0);
+    public static final Color HotPink = new Color(255,105,180);
+    public static final Color DeepPink = new Color(255,20,147);
+    public static final Color Pink = new Color(255,192,203);
+    public static final Color LightPink = new Color(255,182,193);
+    public static final Color PaleVioletRed = new Color(219,112,147);
+    public static final Color Maroon = new Color(176,48,96);
+    public static final Color MediumVioletRed = new Color(199,21,133);
+    public static final Color VioletRed = new Color(208,32,144);
+    public static final Color Magenta = new Color(255,0,255);
 }
