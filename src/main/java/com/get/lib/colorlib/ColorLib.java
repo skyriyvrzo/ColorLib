@@ -2,9 +2,7 @@ package com.get.lib.colorlib;
 
 import java.awt.*;
 
-public class ColorLib {
-    public static void main(String[] args){}
-
+public final class ColorLib {
     public static final String Source = "https://xn--code-3jovd.plus.in.th/";
     public static final Color Snow = new Color(255, 250, 250);
     public static final Color GhostWhite = new Color(248,248,255);
