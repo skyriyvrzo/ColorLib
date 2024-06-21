@@ -1,4 +1,4 @@
-package com.get.lib.colorlib.util;
+package xyz.cuddlecloud.javax.colorlib.util;
 
 public final class Reference {
 

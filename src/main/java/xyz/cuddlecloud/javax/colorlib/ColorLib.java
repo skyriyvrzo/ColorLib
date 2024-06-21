@@ -1,4 +1,4 @@
-package com.get.lib.colorlib;
+package xyz.cuddlecloud.javax.colorlib;
 
 import java.awt.*;
 

@@ -1,4 +1,4 @@
-package com.get.lib.colorlib;
+package xyz.cuddlecloud.javax.colorlib;
 
 public final class ANSIEscapeColorCode {
     public static final String black = "\u001B[30m";
