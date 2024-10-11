@@ -1,8 +1,6 @@
 package xyz.cuddlecloud.javax.colorlib;
 
 import java.awt.Color;
-import java.util.Random;
-import java.util.function.Supplier;
 
 public final class ColorLib {
 
@@ -124,8 +122,4 @@ public final class ColorLib {
 	public static final Color MediumVioletRed = new Color(199, 21, 133);
 	public static final Color VioletRed = new Color(208, 32, 144);
 	public static final Color Magenta = new Color(255, 0, 255);
-
-	private static final Random rd = new Random();
-
-	public static Supplier<Color> random = () -> new Color(rd.nextInt(256), rd.nextInt(256), rd.nextInt(256));
 }

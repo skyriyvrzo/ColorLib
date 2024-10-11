@@ -6,7 +6,7 @@
 
     <groupId>xyz.cuddlecloud.javax.colorlib</groupId>
     <artifactId>color-lib</artifactId>
-    <version>2024.10.11.1</version>
+    <version>2024.10.11.2</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
